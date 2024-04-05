@@ -13,3 +13,9 @@ Com base no codigo Quantos dias vividos, implementei o prompt para o usuario dig
 
 - Media Aritimetica :
 O objetivo do programa é  imprimir a média aritmética dos números já declarados,a média dos números, e a média das médias por leitura do teclado.
+
+- Reajuste de Saldo Bancario:
+  O objetivo do programa é informar um saldo bancário qualquer e imprimir o valor com reajuste de 1%(leitura pelo teclado) .
+
+  - Numero Antecessor e Sucessor :
+   O objetivo do  programa é  receber um número (leitura pelo teclado) e mostrar seu antecessor e seu sucessor.
