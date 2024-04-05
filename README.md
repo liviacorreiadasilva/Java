@@ -19,3 +19,7 @@ O objetivo do programa é  imprimir a média aritmética dos números já declar
 
   - Numero Antecessor e Sucessor :
    O objetivo do  programa é  receber um número (leitura pelo teclado) e mostrar seu antecessor e seu sucessor.
+
+- Calculadora:
+  O objetivo do programa é calcular dois numeros digitados pelo usuario, ao escolher as opções de soma, subtração, multiplicação e divisão.
+  
